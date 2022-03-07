@@ -1,6 +1,5 @@
-//Pathinding Algorithms by Tom Gardner
+//Pathinding Algorithms by 
 //A Star and Dijkstra's algorithms
-//1800028@uad.ac.uk	  ||   tgardner101@outlook.com
 //test
 
 #include "iostream"
